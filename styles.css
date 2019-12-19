@@ -1,0 +1,27 @@
+h1 {
+    color: limegreen;
+    font-family: 'Yeon Sung', cursive;
+}
+.Drink{
+    color:blue;
+}
+p{
+    color:magenta;
+    font-family: 'Bowlby One SC', cursive;
+}
+img{ 
+    width:200px;
+    border-style:dashed ;
+    color:green;
+    border-radius:70px;
+}
+html{
+    background-color:lightblue;
+}
+.meal{
+        color:red;
+        font-family: 'Lobster', cursive;
+}
+.sand{
+float:right;
+}
